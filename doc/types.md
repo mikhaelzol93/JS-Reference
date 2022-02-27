@@ -2,12 +2,12 @@
 
 ## Оглавление
 
-- [Список типов](#TypesList);
-- [Отображение типа](#Typeof);
-- [Преобразование типов](#TypeConvertion):
-  - [Преобразование к числу](#ConvertionToNumber);
-  - [Преобразование к строке](#ConvertionToString);
-  - [Преобразование к boolean](#ConvertionToBoolean).
+- [Список типов](#TypesList)
+- [Отображение типа](#Typeof)
+- [Преобразование типов](#TypeConvertion)
+  - [Преобразование к числу](#ConvertionToNumber)
+  - [Преобразование к строке](#ConvertionToString)
+  - [Преобразование к boolean](#ConvertionToBoolean)
 
 ## <a name="TypesList"></a> Список типов
 
