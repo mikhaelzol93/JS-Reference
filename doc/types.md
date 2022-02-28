@@ -23,7 +23,7 @@
 
 ## <a name="Typeof"></a> Отображение типа
 
-Для отображения типа используется унарный оператор **typeof**:
+Для отображения типа используется унарный оператор [**typeof**](https://github.com/mikhaelzol93/JS-Reference/blob/main/doc/operators.md#Typeof):
 
 ```javascript
 // Функции
@@ -71,7 +71,7 @@ console.log('Класс Dog:', typeof Dog); // "function"
 
 ### <a name="ConvertionToNumber"></a> Преобразование к числу
 
-Для преобразования к числу используется унарный оператор **+** или функция **Number(value)**:
+Для преобразования к числу используется унарный оператор [**+**](https://github.com/mikhaelzol93/JS-Reference/blob/main/doc/operators.md#ConvertionToNumber) или функция **Number(value)**:
 
 ```javascript
 console.log('Положительное или отрицательное число:', +1); // 1
@@ -119,7 +119,7 @@ console.log('undefined:', String(undefined)); // "undefined"
 
 ### <a name="ConvertionToBoolean"></a> Преобразование к boolean
 
-Для преобразования используется унарный оператор **!!** или функция **Boolean(value)**. Также, как в случае с числом и строкой предпочтительно использовать именно **Boolean(value)**.
+Для преобразования используется унарный оператор [**!!**](https://github.com/mikhaelzol93/JS-Reference/blob/main/doc/operators.md#ConvertionToBoolean) или функция **Boolean(value)**. Также, как в случае с числом и строкой предпочтительно использовать именно **Boolean(value)**.
 
 ```javascript
 console.log('Положительное или отрицательное число:', !!1); // true
