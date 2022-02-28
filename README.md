@@ -9,6 +9,7 @@
   - [Версия и экосистема языка](#Infrastructure)
 - [Справочник]()
   - [Типы данных](https://github.com/mikhaelzol93/JS-Reference/blob/main/doc/types.md)
+  - [Операторы](https://github.com/mikhaelzol93/JS-Reference/blob/main/doc/operators.md)
 
 # <a name="General"></a> Общая информация
 
